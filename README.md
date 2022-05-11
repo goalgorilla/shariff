@@ -1,3 +1,6 @@
+# Open Social disclaimer
+> We forked this repository for internal use and may abandon this at any time without any notice. We did this because we needed to make changes to the Shariff library which was no longer actively maintained.
+
 # Shariff – Give Social Media Buttons Some Privacy [![Build Status](https://travis-ci.org/heiseonline/shariff.svg?branch=master)](https://travis-ci.org/heiseonline/shariff)
 
 
