@@ -65,3 +65,5 @@ typings/
 # macOS stuff
 .DS_Store
 
+
+/vendor/

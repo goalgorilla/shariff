@@ -1,0 +1,7 @@
+{
+    "name": "goalgorilla/shariff",
+    "description": "Shariff enables website users to share their favorite content without compromising their privacy.",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
