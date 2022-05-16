@@ -1,7 +1,10 @@
 {
     "name": "goalgorilla/shariff",
-    "description": "Shariff enables website users to share their favorite content without compromising their privacy.",
+    "description": "Fork of npm-asset/shariff for the Open Social Drupal distribution. Not maintained for use outside of Open Social",
     "type": "npm-asset",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "replace": {
+        "npm-asset/shariff": "self.version"
+    }
 }
