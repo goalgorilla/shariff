@@ -1,0 +1,10 @@
+{
+    "name": "goalgorilla/shariff",
+    "description": "Fork of npm-asset/shariff for the Open Social Drupal distribution. Not maintained for use outside of Open Social",
+    "type": "npm-asset",
+    "minimum-stability": "dev",
+    "require": {},
+    "replace": {
+        "npm-asset/shariff": "self.version"
+    }
+}
